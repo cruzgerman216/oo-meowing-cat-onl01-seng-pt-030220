@@ -5,3 +5,10 @@ class Cat
     puts "meow!"
   end
 end
+
+cat = new Cat()
+
+cat.name = "dude"
+
+puts cat.name
+cat.meow
