@@ -6,7 +6,7 @@ class Cat
   end
 end
 
-cat = new Cat()
+cat = Cat.new
 
 cat.name = "dude"
 
